@@ -1,0 +1,1 @@
+This is a chrome extension to save image from https://zespolmi.pl to clipboard
